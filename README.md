@@ -26,7 +26,7 @@
   - 🎓 &nbsp; Pursuing Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Software Development. 
-  - Just a wandering soul, in need of an exciting new adventure ! 👣 🧭 🌍 🚩
+  - 👣 Just a wandering soul, in need of an exciting new adventure ! 🧭 🌍 🚩
 </div> 
 </div>
 
