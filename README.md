@@ -1,8 +1,25 @@
 <h1 align="center">Hey there! I'm Sanith PS 👋 </h1>
 <h3 align="center">🚀 Backend Developer | MERN Stack | Devops | Competitive Programmer  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/sanithps98/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sa___niii/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sanithps98&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+<p align='center'>
+
 <div align="left"> 
+
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions & quick hacks.
@@ -20,8 +37,7 @@
   <p>
 </div> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanithps98/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sa___niii/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pssanith@karunya.edu.in)
+
+
 
 
