@@ -1,4 +1,6 @@
 <h1 align="center">Hey there! I'm Sanith PS 👋 </h1>
+<h3 align="center">👣 Just a wandering soul, in need of an exciting new adventure in life ! 🧭 🌍 🚩</h3>
+
 <h3 align="center">🚀 Backend Developer | MERN Stack | Devops | Competitive Programmer  🚀</h3>
 <div>
 <p align='center'>
@@ -26,7 +28,7 @@
   - 🎓 &nbsp; Pursuing Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Software Development. 
-  - 👣 &nbsp; Just a wandering soul, in need of an exciting new adventure ! 🧭 🌍 🚩
+
 </div> 
 </div>
 
