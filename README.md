@@ -29,7 +29,7 @@
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Software Development. 
 
-<h2 align="center">WORK. SAVE. TRAVEL. REPEAT!</h2>
+<h3 align="center">WORK. SAVE. TRAVEL. REPEAT !</h3>
 
 </div> 
 </div>
