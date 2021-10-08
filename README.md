@@ -2,38 +2,24 @@
 <h3 align="center">👣 Just a wandering soul, in need of an exciting new adventure in life ! 🧭 🌍 🚩</h3>
 
 <h3 align="center">🚀 Full Stack Developer | C++ | Python  🚀</h3>
-<div>
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/sanithps98/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sa___niii/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sanithps98&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+<br>
 
-<p align='center'>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sanithps98.visitor-badge)
 
-<div align="left"> 
-
-  <h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions & quick hacks.
   - 🎓 &nbsp; Pursuing Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Software Development. 
 
+<br>
 <h3 align="center">WORK. SAVE. TRAVEL. REPEAT !</h3>
 
-</div> 
-</div>
-
+<br>
+<br>
+  
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
@@ -50,7 +36,30 @@
   <p>
 </div> 
 
+<div> 
+</div>
+  
+<br>
+<br>
+<br>
+    
+<div> 
+  <h3> 📈 My GitHub Stats </h3>
+  <p>
+    <a href="#"> <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanithps98&hide=TeX&layout=compact&theme=radical" alt="Sanith PS's Github stats" />
+    <a href="#"> <img height="140px" src="https://github-readme-stats.vercel.app/api?username=sanithps98&count_private=true&show_icons=true&theme=radical" alt="Sanith PS's Github stats" />
+  </p>
+</div>
 
-
-
+<div>
+  <h3> 📫 Contact Me </h3>
+  <p>
+    <a href="https://www.linkedin.com/in/sanithps98/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin" />
+    </a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/sa___niii/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
+    </a>&nbsp;&nbsp;
+  </p>
+ </div>
 
