@@ -47,7 +47,7 @@
   <h3> 📈 My GitHub Stats </h3>
   <p>
     <a href="#"> <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanithps98&hide=TeX&layout=compact&theme=radical" alt="Sanith PS's Github stats" />
-    <a href="#"> <img height="140px" src="https://github-readme-stats.vercel.app/api?username=sanithps98&count_private=true&show_icons=true&theme=radical" alt="Sanith PS's Github stats" />
+    <a href="#"> <img height="140px" src="https://github-readme-stats.vercel.app/api?username=sanithps98&count_private=true&include_all_commits=true&show_icons=true&theme=radical" alt="Sanith PS's Github stats" />
   </p>
 </div>
 
