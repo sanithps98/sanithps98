@@ -7,19 +7,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sanithps98.visitor-badge)
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions & quick hacks.
-  - 🎓 &nbsp; Pursuing Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Software Development. 
-
-<br>
-<h3 align="center">WORK. SAVE. TRAVEL. REPEAT !</h3>
-
-<br>
-<br>
-  
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
