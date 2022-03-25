@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Sanith PS 👋 </h1>
 <h3 align="center">👣 Just a wandering soul, in need of an exciting new adventure in life ! 🧭 🌍 🚩</h3>
 
-<h3 align="center">🚀 Full Stack Developer | Javascript 🚀</h3>
+<h3 align="center">🚀 Backend Developer | Javascript 🚀</h3>
 
 <br>
 
