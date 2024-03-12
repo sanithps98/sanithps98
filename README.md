@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Sanith PS 👋 </h1>
-<h3 align="center">Data Engineer at Tata Consultancy Services with an experience of 2.5+ years, seeking challenging opportunities to apply my skills and knowledge for the mutual growth and benefit of the organisation </h3>
+<h4 align="center">Data Engineer at Tata Consultancy Services with an experience of 2.5+ years, seeking challenging opportunities to apply my skills and knowledge for the mutual growth and benefit of the organisation </h4>
 
 <br>
 
