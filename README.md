@@ -3,8 +3,6 @@
 
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sanithps98.visitor-badge)
-
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
