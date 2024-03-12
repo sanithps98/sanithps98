@@ -1,7 +1,5 @@
 <h1 align="center">Hey there! I'm Sanith PS 👋 </h1>
-<h3 align="center">👣 Just a wandering soul, in need of an exciting new adventure in life ! 🧭 🌍 🚩</h3>
-
-<h3 align="center">🚀 Data Engineer 🚀</h3>
+<h3 align="center">Data Engineer at Tata Consultancy Services with an experience of 2.5+ years, seeking challenging opportunities to apply my skills and knowledge for the mutual growth and benefit of the organisation </h3>
 
 <br>
 
