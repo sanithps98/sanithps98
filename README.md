@@ -3,8 +3,6 @@
 
 <br>
 
-![sanithps98's github stats](https://github-readme-stats.vercel.app/api?username=sanithps98&show_icons=true&hide_border=true)
-
 <div>
   <h3> 📫 Contact Me </h3>
   <p>
