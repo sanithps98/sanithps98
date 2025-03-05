@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Sanith PS 👋 </h1>
-<h4 align="center">Data Engineer at Tata Consultancy Services with an experience of 2.5+ years, seeking challenging opportunities to apply my skills and knowledge for the mutual growth and benefit of the organisation </h4>
+<h4 align="center">A DataEngineer with 3.5years of experience in designing, building, and optimizing high-performance data pipelines using ETL/ELT processes. Proficient in SQL, Python, and PySpark for data transformation and analysis. Experienced in leveraging Microsoft Azure services, including Azure Databricks and Azure Data Factory, and skilled in data modeling and warehousing. </h4>
 
 <br>
 
